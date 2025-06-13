@@ -39,7 +39,7 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
-// Creating the functions and code functionality for our three buttons
+// Was unable to implement the code the button functionalities, sorry 
 
 // AddItem Function:
 void MainWindow::onAddItem()
